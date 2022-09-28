@@ -10,6 +10,14 @@
 - 🤔 I’m looking for help with questions about Java and JavaScript 
 
 
+
+
+<div>
+<a href="https://github.com/wilianapfer">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilianapfer&layout=compact&langs_count=7&theme=merko"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wilianapfer&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+</div>
+
 ![](https://media.tenor.com/images/f069ae9aad2717278c6c95098884e558/tenor.gif)
 
 ## I'm learning:
