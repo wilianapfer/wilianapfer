@@ -32,6 +32,8 @@
            <p>
 </div>
           
+![Snake animation](https://github.com/wilianapfer/wilianapfer/blob/output/github-contribution-grid-snake.svg)          
+   
 
 
 
